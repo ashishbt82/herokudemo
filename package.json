@@ -1,0 +1,19 @@
+{
+  "name": "herokudemo",
+  "version": "1.0.0",
+  "description": "blrdevx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishbt82/herokudemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishbt82/herokudemo/issues"
+  },
+  "homepage": "https://github.com/ashishbt82/herokudemo#readme"
+}
